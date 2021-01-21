@@ -72,7 +72,7 @@ We learned important GitHub terms and what they mean.  You will use these for th
 
 ### Practice
 
-https://www.codecademy.com/courses/learn-git
+[Code Cademy](https://www.codecademy.com/courses/learn-git)
 
 ### Resources
 
