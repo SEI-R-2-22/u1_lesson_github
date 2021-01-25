@@ -75,13 +75,8 @@ We learned important GitHub terms and what they mean.  You will use these for th
 [Code Cademy](https://www.codecademy.com/courses/learn-git)
 
 ### Resources
-
-[Git Cheatsheet](https://services.github.com/on-demand/downloads/github-git-cheat-sheet.pdf)
-
-[Git Handbook](https://guides.github.com/introduction/git-handbook)
-
-[Version Control](https://www.atlassian.com/git/tutorials/what-is-version-control)
-
-[What is Git?](https://www.atlassian.com/git/tutorials/what-is-git)
-
-[Why is Git?](https://www.atlassian.com/git/tutorials/why-git)
+- [Git Cheatsheet](https://services.github.com/on-demand/downloads/github-git-cheat-sheet.pdf)
+- [Git Handbook](https://guides.github.com/introduction/git-handbook)
+- [Version Control](https://www.atlassian.com/git/tutorials/what-is-version-control)
+- [What is Git?](https://www.atlassian.com/git/tutorials/what-is-git)
+- [Why is Git?](https://www.atlassian.com/git/tutorials/why-git)
